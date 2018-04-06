@@ -1,5 +1,0 @@
---- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/ZPlayzMCPE/Spawner
-projects:
-  Spawner-MASTER:
-    path: Spawner-MASTER/
-...
